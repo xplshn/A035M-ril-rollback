@@ -1,0 +1,7 @@
+id=A035M-ril-rollback
+name=SMS Fix Magisk Module for Samsung Galaxy A035M
+version=v1.1
+versionCode=2
+author=IverCoder
+description=Fix SMS on Galaxy A035M by rolling back the RIL libraries. This is only tested for SM-A035M.
+updateJson=https://raw.githubusercontent.com/xplshn/A035M-ril-rollback/master/update.json
